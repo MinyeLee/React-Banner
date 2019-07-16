@@ -7,7 +7,11 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" height="400px"></img>
 
 </li></br></br>
-<li>&emsp;<strong>Animation</strong> : Only shows part of Carousel</li></br></br>
+<li>&emsp;<strong>Animation</strong> : Only shows part of Carousel<br/><br/>
+<img src="https://user-images.githubusercontent.com/6896920/61291468-8de0c200-a809-11e9-9d08-a080f401bc24.png" height="200px"></img><br/><br/>
+
+
+</li></br></br>
 <li>&emsp;<strong>Current Status</strong>  : </li></br></br>
 <li>&emsp;<strong>Reference</strong>  : </br></br>
 &emsp;&emsp;<a target="_blank" href="https://github.com/express-labs/pure-react-carousel/issues/60">GitHub-React Infinite Loop Issue</a></br>
