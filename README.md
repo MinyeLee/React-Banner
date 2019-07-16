@@ -1,7 +1,7 @@
 # React-Banner
 The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps.</br></br>
 <h3>1. Infinite Scroll Loop Carousel</h3>
-<blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
+<h4>&emsp;How to make the first slide appear again after the last slide?</h4>
 <ol>  
 <li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.<br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" height="400px"></img>
@@ -19,7 +19,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 </li>
 </ol>
 
-<blockquote>&emsp;b. How to stop slides while MouseOver?</blockquote></br>
+<h4>&emsp;How to stop slides while MouseOver?</h4></br>
 <ol>
 <li>&emsp;<strong>Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. 
 	
@@ -27,7 +27,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <img src="https://user-images.githubusercontent.com/6896920/61291682-25461500-a80a-11e9-9e46-b7b02f5fc37b.png" height="50px"></img>
 </li></br>
 </ol>
-<blockquote>&emsp;c. How to allow sliding to finish animation when using stop?</blockquote></br>
+<h4>&emsp;How to allow sliding to finish animation when using stop?</h4></br>
 <ol>
 <li>&emsp;<strong>Change animation</strong> : Set animation fill-mode as forwards, iteration-count as 1, not infinite.<br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291800-7a822680-a80a-11e9-9406-5dadac6a2560.png" height="150px"></img>	
@@ -36,7 +36,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 &emsp;&emsp;<a target="_blank" href="https://stackoverflow.com/questions/25314215/how-to-allow-slidedown-and-slideup-to-finish-animation-when-using-stop">StackOverflow</a></li>
 </ol>
 <h3>2. Next/Prev Control Buttons</h3>
-<blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
+<h4>&emsp;How to make the first slide appear again after the last slide?</h4></br>
 <ol>
 	<li>&emsp;<strong>Reordering arrays</strong> : Same as 1-a </li>
 </ol>
@@ -50,7 +50,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 &emsp;&emsp;<a target="_blank" href="https://codepen.io/swingthing/pen/ZBGBJb/">Codepen - Swipe to remove the item</a></li>
 </ol>
 <h3>5. Data Fetching</h3>
-<blockquote>&emsp;a. How to enable CORS(Cross Origin Resource Sharing)?</blockquote></br>
+<h4>&emsp;How to enable CORS(Cross Origin Resource Sharing)?</h4></br>
 <ol>
 <li>&emsp;<strong>Change mode</strong> : Implement fetch api in componentDidMount() and Set the mode as ‘no-cors’, however it doesn’t occur CORS error but, doesn’t send the data.</li><br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291799-7a822680-a80a-11e9-98b8-147c0db2a277.png" height="140px"></img>	
