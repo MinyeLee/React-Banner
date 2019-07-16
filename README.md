@@ -19,21 +19,21 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <blockquote>&emsp;c. How to allow sliding to finish animation when using stop?</blockquote></br>
 <ol>
 <li>&emsp;<strong>Change animation</strong> : Set animation fill-mode as forwards, iteration-count as 1, not infinite.</li>
-<li>&emsp;<strong>Reference </strong>  : </li></br></br>
-&emsp;&emsp;<a target="_blank" href="https://stackoverflow.com/questions/25314215/how-to-allow-slidedown-and-slideup-to-finish-animation-when-using-stop">StackOverflow</a>
+<li>&emsp;<strong>Reference </strong>  : </br></br>
+&emsp;&emsp;<a target="_blank" href="https://stackoverflow.com/questions/25314215/how-to-allow-slidedown-and-slideup-to-finish-animation-when-using-stop">StackOverflow</a></li>
 </ol>
 <h3>2. Next/Prev Control Buttons</h3>
 <blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
 <ol>
-<li>&emsp;<strong>Reordering arrays : Same as 1-a </li>
+	<li>&emsp;<strong>Reordering arrays</strong> : Same as 1-a </li>
 </ol>
 <h3>3. Stop on Mouse Focus</h3> : Same as 1-b	
 <h3>4. Mobile Swipe Touch Slider</h3> <br/><br/>
 <ol>
-<li>&emsp;<strong>Swipe Event</strong> : Detect Swipe event by onMouseDown() -> onMouseMove() -> onMouseLeave() , change class Name, and apply css ‘????’ property as paused. And detect direction in onMouseMove(). For cross-platform compatibility, onTouchStart() -> onTouchMove() ->onTouchEnd().</li>
+<li>&emsp;<strong>Swipe Event</strong> : Detect Swipe event by onMouseDown() -> onMouseMove() -> onMouseLeave() , change class Name, and apply css property as paused. And detect direction in onMouseMove(). For cross-platform compatibility, onTouchStart() -> onTouchMove() ->onTouchEnd().</li>
 
 		
-<li>&emsp;<strong>Reference </strong>
+<li>&emsp;<strong>Reference  </strong>:</br></br>
 &emsp;&emsp;<a target="_blank" href="https://codepen.io/swingthing/pen/ZBGBJb/">Codepen - Swipe to remove the item</a></li>
 </ol>
 <h3>5. Data Fetching</h3>
