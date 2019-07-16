@@ -3,8 +3,8 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <h3>1. Infinite Scroll Loop Carousel</h3>
 <blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
 <ol>  
-<li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.
-<img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" width="90%"></img>
+<li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.<br/><br/>
+<img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" height="400px"></img>
 
 </li></br></br>
 <li>&emsp;<strong>Animation</strong> : Only shows part of Carousel</li></br></br>
