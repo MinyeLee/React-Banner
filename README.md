@@ -21,7 +21,10 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 
 <blockquote>&emsp;b. How to stop slides while MouseOver?</blockquote></br>
 <ol>
-<li>&emsp;<strong>Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. </li></br>
+<li>&emsp;<strong>Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. 
+	
+<img src="https://user-images.githubusercontent.com/6896920/61291612-f2038600-a809-11e9-9524-8a75d17383e1.png" height="80px"></img><br/><br/>
+</li></br>
 </ol>
 <blockquote>&emsp;c. How to allow sliding to finish animation when using stop?</blockquote></br>
 <ol>
