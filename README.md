@@ -1,8 +1,8 @@
 # React-Banner
 The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps. Execute the code "npm run start"</br></br>
-
-<h3>1. Infinite Scroll Loop Carousel</h3>
-#<h4>&emsp;How to make the first slide appear again after the last slide?</h4>
+<hr/>
+<h3>1. Infinite Scroll Loop Carousel</h3></hr>
+<h4>&emsp;How to make the first slide appear again after the last slide?</h4>
 <ul>  
 <li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.<br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" height="400px"></img>
@@ -35,18 +35,22 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <li>&emsp;<strong>Reference </strong>  : </br></br>
 &emsp;&emsp;<a target="_blank" href="https://stackoverflow.com/questions/25314215/how-to-allow-slidedown-and-slideup-to-finish-animation-when-using-stop">StackOverflow</a></li>
 </ul>
+<hr/>
 <h3>2. Next/Prev Control Buttons</h3>
 <h4>&emsp;How to make the first slide appear again after the last slide?</h4></br>
 <ul>
 	<li>&emsp;<strong>Reordering arrays</strong> : Same as above </li>
 </ul>
+<hr/>
 <h3>3. Stop on Mouse Focus</h3>
 <h4>&emsp;Same as above</h4>
+<hr/>
 <h3>4. Mobile Swipe Touch Slider</h3>
 <ul><li>&emsp;<strong>Swipe Event</strong> : Detect Swipe event by onMouseDown() -> onMouseMove() -> onMouseLeave() , change class Name, and apply css property as paused. And detect direction in onMouseMove(). For cross-platform compatibility, onTouchStart() -> onTouchMove() ->onTouchEnd().</li>		
 <li>&emsp;<strong>Reference  </strong>:</br></br>
 &emsp;&emsp;<a target="_blank" href="https://codepen.io/swingthing/pen/ZBGBJb/">Codepen - Swipe to remove the item</a></li>
 </ul>
+<hr/>
 <h3>5. Data Fetching</h3>
 <h4>&emsp;How to enable CORS(Cross Origin Resource Sharing)?</h4></br>
 <ul>
