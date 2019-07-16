@@ -10,7 +10,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <li>&emsp;<strong>Animation</strong> : Only shows part of Carousel<br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291468-8de0c200-a809-11e9-9d08-a080f401bc24.png" height="150px"></img><br/><br/>
 
-<img src="https://user-images.githubusercontent.com/6896920/61291541-b9fc4300-a809-11e9-87ee-1362afa50592.png" height="140px"></img><br/><br/>
+<img src="https://user-images.githubusercontent.com/6896920/61291541-b9fc4300-a809-11e9-87ee-1362afa50592.png" height="140px"></img>
 </li></br></br>
 <li>&emsp;<strong>Current Status</strong>  : </li></br></br>
 <li>&emsp;<strong>Reference</strong>  : </br></br>
@@ -24,7 +24,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <li>&emsp;<strong>Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. 
 	
 <img src="https://user-images.githubusercontent.com/6896920/61291612-f2038600-a809-11e9-9524-8a75d17383e1.png" height="35px"></img><br/><br/>
-<img src="https://user-images.githubusercontent.com/6896920/61291682-25461500-a80a-11e9-9e46-b7b02f5fc37b.png" height="45px"></img><br/><br/>
+<img src="https://user-images.githubusercontent.com/6896920/61291682-25461500-a80a-11e9-9e46-b7b02f5fc37b.png" height="50px"></img>
 </li></br>
 </ol>
 <blockquote>&emsp;c. How to allow sliding to finish animation when using stop?</blockquote></br>
