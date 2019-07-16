@@ -2,13 +2,15 @@
 The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps.</br></br>
 <h3>1. Infinite Scroll Loop Carousel</h3>
 <blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
-
-&emsp;<strong>- Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.</br></br>
-&emsp;<strong>- Animation</strong> : Only shows part of Carousel</br></br>
-&emsp;<strong>-Current Status</strong>  : </br></br>
-&emsp;<strong>-Reference</strong>  : </br></br>
+<ol>  
+<li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.</li></br></br>
+<li>&emsp;<strong>Animation</strong> : Only shows part of Carousel</li></br></br>
+<li>&emsp;<strong>Current Status</strong>  : </li></br></br>
+<li>&emsp;<strong>Reference</strong>  : </br></br>
 &emsp;&emsp;<a target="_blank" href="https://github.com/express-labs/pure-react-carousel/issues/60">GitHub-React Infinite Loop Issue</a></br>
 &emsp;&emsp;<a target="_blank" href="https://codepen.io/MattPeck/pen/pZbWjN?editors=0010">CodePen-Carousel Fundamentals React</a>
+</li>
+</ol>
 
 <blockquote>&emsp;b. How to stop slides while MouseOver?</blockquote></br>
 &emsp;<strong>-Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. </br>
