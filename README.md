@@ -13,13 +13,14 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 </ol>
 
 <blockquote>&emsp;b. How to stop slides while MouseOver?</blockquote></br>
+<ol>
 &emsp;<strong>-Mouse Over Event</strong> : Detect mouse over event by onMouseOut() function, change class Name, and apply css ‘animation-play-state’ property as paused. </br>
 
 <blockquote>&emsp;c. How to allow sliding to finish animation when using stop?</blockquote></br>
-&emsp;<strong>-Change animation</strong> : Set animation fill-mode as forwards, iteration-count as 1, not infinite.
-&emsp;<strong>-Reference </strong>  : </br></br>
+<li>&emsp;<strong>Change animation</strong> : Set animation fill-mode as forwards, iteration-count as 1, not infinite.</li>
+<li>&emsp;<strong>Reference </strong>  : </li></br></br>
 &emsp;&emsp;<a target="_blank" href="https://stackoverflow.com/questions/25314215/how-to-allow-slidedown-and-slideup-to-finish-animation-when-using-stop">StackOverflow</a>
-
+</ol>
 <h3>2. Next/Prev Control Buttons</h3>
 <blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
 Reordering arrays : Same as 1-a (href!!)
