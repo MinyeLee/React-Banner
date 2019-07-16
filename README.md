@@ -37,7 +37,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <h3>2. Next/Prev Control Buttons</h3>
 <h4>&emsp;How to make the first slide appear again after the last slide?</h4></br>
 <ul>
-	<li>&emsp;<strong>Reordering arrays</strong> : Same as 1-a </li>
+	<li>&emsp;<strong>Reordering arrays</strong> : Same as above </li>
 </ul>
 <h3>3. Stop on Mouse Focus</h3>
 <h4>&emsp;Same as above</h4>
