@@ -8,9 +8,9 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 
 </li></br></br>
 <li>&emsp;<strong>Animation</strong> : Only shows part of Carousel<br/><br/>
-<img src="https://user-images.githubusercontent.com/6896920/61291468-8de0c200-a809-11e9-9d08-a080f401bc24.png" height="200px"></img><br/><br/>
+<img src="https://user-images.githubusercontent.com/6896920/61291468-8de0c200-a809-11e9-9d08-a080f401bc24.png" height="150px"></img><br/><br/>
 
-
+<img src="https://user-images.githubusercontent.com/6896920/61291541-b9fc4300-a809-11e9-87ee-1362afa50592.png" height="140px"></img><br/><br/>
 </li></br></br>
 <li>&emsp;<strong>Current Status</strong>  : </li></br></br>
 <li>&emsp;<strong>Reference</strong>  : </br></br>
