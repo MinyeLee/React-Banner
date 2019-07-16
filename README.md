@@ -4,7 +4,8 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 <blockquote>&emsp;a. How to make the first slide appear again after the last slide?</blockquote></br>
 <ol>  
 <li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.
-![Screen Shot 2019-07-16 at 1 32 18 PM](https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png)
+<img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" width="90%"></img>
+
 </li></br></br>
 <li>&emsp;<strong>Animation</strong> : Only shows part of Carousel</li></br></br>
 <li>&emsp;<strong>Current Status</strong>  : </li></br></br>
